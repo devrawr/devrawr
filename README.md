@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devrawr
-- 👀 I’m interested in several topics, including low-level development, networking, algorithms and more.
-- 🌱 I’m currently learning process architectures and reverse engineering.
-- 📫 You're able to reach me on discord, rawr#0365
+- 👋 Hi, I’m @devhors 🐎
+- 👀 I’m interested in several topics, including hay, fur, algorithms and more.
+- 🌱 I’m currently learning process hay bales and reverse hay-reconstructor.
+- 📫 You're able to reach me on discord, bighors32#gmail.com
